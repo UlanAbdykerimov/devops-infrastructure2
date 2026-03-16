@@ -29,3 +29,5 @@ GitHub Actions builds Docker image automatically.
 1. Build Docker image
 2. Deploy to Kubernetes
 3. Monitor with Prometheus
+
+Kibernetes is added
